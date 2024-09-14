@@ -1,3 +1,1 @@
-# latihan-branch
-
-ss1
+ss2
